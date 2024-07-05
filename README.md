@@ -40,6 +40,8 @@
 #### Home
 Página totalmente responsiva, ou seja, se adapta a qualquer tipo de dispositivo, possui modo light e dark, ao clicar sobre os botões os temas são trocados, possui diversas animações e informações a respeito da minha trajetória como desenvolvedor.
 
+https://github.com/BrunoCarvalhoFeitosa/modern-portfolio/assets/46093815/bca25a80-d780-4b02-9922-52a517f808c6
+
 ### Feito com
 
 * [Next.js](https://nextjs.org)
